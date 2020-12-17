@@ -12,9 +12,9 @@ reproduce our findings, and improve the methodology.
 ## Shiny app
 
 A dashboard shiny app can be found in
-<https://prof-thiagooliveira.shinyapps.io/COVIDForecast/>
+<https://www.hamilton.ie/covid19/apps/pred_app/>
 
 # Contacts
 
-  - Thiago de Paula Oliveira - email: <thiago.paula.oliveira@usp.br>
+  - Thiago de Paula Oliveira - email: <thiago.paula.oliveira@ed.ac.uk>
   - Rafael de Andrade Moral - email: <rafael.deandrademoral@mu.ie>
